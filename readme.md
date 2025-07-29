@@ -1,0 +1,1 @@
+# This is a basic website design layout made using HTML and CSS.
